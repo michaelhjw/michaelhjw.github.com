@@ -4,7 +4,7 @@
   <title><![CDATA[黄俊伟的Blog]]></title>
   <link href="http://michaelhjw.github.com/atom.xml" rel="self"/>
   <link href="http://michaelhjw.github.com/"/>
-  <updated>2012-05-29T00:46:45+08:00</updated>
+  <updated>2012-05-29T00:52:40+08:00</updated>
   <id>http://michaelhjw.github.com/</id>
   <author>
     <name><![CDATA[Michael Huang]]></name>
@@ -18,12 +18,7 @@
     <link href="http://michaelhjw.github.com/blog/2012/05/28/hello-world/"/>
     <updated>2012-05-28T23:47:00+08:00</updated>
     <id>http://michaelhjw.github.com/blog/2012/05/28/hello-world</id>
-    <content type="html"><![CDATA[<p>既然是第一篇博客，那就写个Hello World吧.</p>
-
-<p>放上一张我小侄女的相片。。</p>
-
-<div style="float: centre"><img src="1.jpg" width=300 height=500></div>
-
+    <content type="html"><![CDATA[<p>既然是第一篇博客，那就写个Hello World吧&#8230;</p>
 ]]></content>
   </entry>
   
